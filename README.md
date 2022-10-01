@@ -1,1 +1,1 @@
-# -G_S_ASHISH_ORMandSpringMVCAssignmentSolution-
+# G_S_ASHISH_ORMandSpringMVCAssignmentSolution
